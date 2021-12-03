@@ -33,6 +33,8 @@ As a developer, you will be writing tests for every component. As we've learned,
 - [ ] **IMPORTANT** If a test fails, use the test runner's error messages to find out why it is failing
 
 ### Task 2: Project Requirements
+
+[comment]: <> (here)
 > *All of the work you will do today will be contained inside the ContactForm.test.js file. You will be tasked to write the code for at least 9 different tests on various parts of the ContactForm component. Please read the instructions for each test carefully.*
 
 #### Test Brainstorming
